@@ -1,5 +1,5 @@
-![Fancy logo](./public/logo-dark.png#gh-dark-mode-only)
-![Fancy logo](./public/logo-light.png#gh-light-mode-only)
+![Fancy logo](./public/logo-dark.svg#gh-dark-mode-only)
+![Fancy logo](./public/logo-light.svg#gh-light-mode-only)
 
 Helium is a starter project for building your own custom UI on top of Atomic's API.
 
