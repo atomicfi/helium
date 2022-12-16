@@ -1,5 +1,5 @@
-![Fancy logo](./public/logo-dark.svg#gh-dark-mode-only)
-![Fancy logo](./public/logo-light.svg#gh-light-mode-only)
+![Fancy logo](./public/logo-dark.svg#gh-dark-mode-only | height=150)
+![Fancy logo](./public/logo-light.svg#gh-light-mode-only | height=150)
 
 ## What is Helium?
 
